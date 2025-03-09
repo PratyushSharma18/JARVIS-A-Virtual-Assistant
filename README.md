@@ -14,5 +14,7 @@
 - Jarvis transcends the limitations of text-based interaction by utilizing Google Text-to-Speech (gTTS). This integration enables the assistant to audibly deliver information, news updates, and responses, creating a more immersive and accessible experience. You can listen to information instead of reading it.
 ### Speech Recognition (Speech Recognition library):
 - Jarvis uses the speech recognition library to understand the users voice commands. This enables a hands free and natural interaction with the virtual assistant.
+### Personalized Music Playlists:
+- Jarvis allows you to save your favorite music playlist links. With a simple voice command, Jarvis can directly open your chosen playlist in your default browser, providing instant access to your music.
 ### User-Friendly Interface:
 - Jarvis is designed for ease of use, with a straightforward command structure and intuitive interactions. Whether you're a tech enthusiast or a casual user, you'll find Jarvis simple and effective.
