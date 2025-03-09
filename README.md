@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/fae73d26-6c38-4cc5-918f-a6ddf66a9f5b)
+
+ 
  # Jarvis: A Personalized Virtual Assistant Powered by Python
  - Jarvis is a versatile virtual assistant project built using Python, designed to enhance productivity and provide seamless access to information. It leverages the power of cutting-edge technologies like OpenAI, NewsAPI, and gTTS to deliver a dynamic and user-friendly experience.
 
